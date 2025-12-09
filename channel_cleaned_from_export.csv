@@ -1,0 +1,105 @@
+channel,messages_posted,members_who_posted,name,id,total_membership,avg_messages_per_user
+FC:F09LM36RYA1:Stages tasks,3,3,,,,1.0
+FC:F0A0L3P508K:Sitelytics Bugs,37,3,,,,12.333333333333334
+FC:F0A0LHTRRU3:ContentQ Bugs,61,6,,,,10.166666666666666
+FC:F0A0M1NPV43:Baihu Bugs,59,2,,,,29.5
+FC:F0A0NTH1JBD:Bug Fixes - Rea,6,1,,,,6.0
+FC:F0A0RRRU5E1:┬á,1,1,,,,1.0
+FC:F0A0SERL4F4:LegalWatchDog Bugs,150,5,,,,30.0
+FC:F0A0SJGJXQS:NoraAI Bugs,64,2,,,,32.0
+FC:F0A0SKQHD7F:OpenSchoolPortal Bugs,53,2,,,,26.5
+FC:F0A0W0SUTU5:Bug fixes - Sitelytics,4,1,,,,4.0
+FC:F0A0W1YRJ92:Storytime App Bug List,108,3,,,,36.0
+FC:F0A0W936752:Telex Bugs,124,1,,,,124.0
+FC:F0A0WLHJ5L4:Inventrix Bugs,55,1,,,,55.0
+FC:F0A0Y150BMJ:Reabible bugs,97,4,,,,24.25
+FC:F0A0Z3725SN:Bug Fixes - Nora,12,1,,,,12.0
+FC:F0A159T58QH:DeenAI Bugs,127,7,,,,18.142857142857142
+FC:F0A1LV9RKME:HngConnect Bugs,187,1,,,,187.0
+affirmations,17,9,affirmations,C09LX3U431T,24.0,1.8888888888888888
+anime,1499,87,anime,C09LP005TJ6,83.0,17.229885057471265
+announcement,16764,2069,announcement,C09AMR8SLJF,689.0,8.102464958917352
+announcement-projects,3752,1003,announcement-projects,C09KQ5V09D5,687.0,3.740777666999003
+books,486,63,books,C09PWG2DBFD,99.0,7.714285714285714
+bug-fixes,56,17,bug-fixes,C0A0RL0RW13,114.0,3.2941176470588234
+bug-reports,1549,153,bug-reports,C0A1JSPLLGY,332.0,10.124183006535947
+bugreports-baihu-manifestme,201,40,bugreports-baihu-manifestme,C0A0R1JF9FG,67.0,5.025
+bugreports-contentq,279,34,bugreports-contentq,C0A0WBQCXJ8,60.0,8.205882352941176
+bugreports-deenai,995,90,bugreports-deenai,C0A0AUM3C0P,130.0,11.055555555555555
+bugreports-hngconnect,336,47,bugreports-hngconnect,C0A0SFA71NW,93.0,7.148936170212766
+bugreports-inventrix,87,17,bugreports-inventrix,C0A0PJM03K7,16.0,5.117647058823529
+bugreports-legalwatchdog,737,75,bugreports-legalwatchdog,C0A0L2HDHV1,95.0,9.826666666666666
+bugreports-nora,831,61,bugreports-nora,C0A0P2VV7GV,94.0,13.62295081967213
+bugreports-openschoolportal,294,44,bugreports-openschoolportal,C0A0BPYP1FZ,75.0,6.681818181818182
+bugreports-rea,234,40,bugreports-rea,C0A0LJ90JKD,63.0,5.85
+bugreports-sitelytics,531,77,bugreports-sitelytics,C0A0L31HS7M,97.0,6.896103896103896
+bugreports-storytime,539,62,bugreports-storytime,C0A1LPGQARW,80.0,8.693548387096774
+bugreports-telex,505,54,bugreports-telex,C0A0B4T8JB1,112.0,9.351851851851851
+bugsreport-inventrix,202,40,bugsreport-inventrix,C0A1MB0U9C0,50.0,5.05
+chat-general,3646,1511,chat-general,C09C44H6127,532.0,2.412971542025149
+chat-interns-only,1536,156,chat-interns-only,C09L4MN2NBZ,388.0,9.846153846153847
+chat-internship,2927,1577,chat-internship,C09L95P3XV2,518.0,1.8560558021559923
+chat-mentors-only,6472,298,chat-mentors-only,C09LZL27E5D,611.0,21.71812080536913
+chat-random,1495,564,chat-random,C09AMR90HGB,620.0,2.650709219858156
+checkin,4871,427,checkin,C09R2GXSKN0,687.0,11.407494145199063
+cynthia-oforie-go-home,664,156,cynthia-oforie-go-home,C09NR035QKE,59.0,4.256410256410256
+devops-stage3-alert,291,142,devops-stage3-alert,C09PSN2E3PE,0.0,2.0492957746478875
+english-reading-writing-pronunciation,490,89,english-reading-writing-pronunciation,C09LNKA659B,206.0,5.50561797752809
+expulsion,22,9,expulsion,C09S9QNCCKE,0.0,2.4444444444444446
+fight,665,123,fight,C09LB9DAMNZ,223.0,5.40650406504065
+frequently-asked-questions,50,24,frequently-asked-questions,C09MFSPP4D6,0.0,2.0833333333333335
+games,6441,395,games,C09BRBP7YP5,313.0,16.30632911392405
+going-home,1074,194,going-home,C09P7NQ61QQ,0.0,5.536082474226804
+going-home-premium-excluded,765,156,going-home-premium-excluded,C09MZQ27SCU,0.0,4.903846153846154
+help,1170,396,help,C09LZL3JY2C,0.0,2.9545454545454546
+hng-adventure,15,13,hng-adventure,C09BQTHMKNZ,0.0,1.1538461538461537
+hng-learn,1913,744,hng-learn,C09LTGCJTT6,0.0,2.571236559139785
+hng-lite,53,15,hng-lite,C09PP4K28RE,0.0,3.533333333333333
+hng-sdk,37,8,hng-sdk,C09L8DH6V7X,30.0,4.625
+hng-va-website,46,8,hng-va-website,C09RQH5BEKV,6.0,5.75
+interns-rant,311,82,interns-rant,C09NX8WNWE4,162.0,3.792682926829268
+introduce-yourself,6254,4128,introduce-yourself,C09L3MYT5KQ,516.0,1.5150193798449612
+love,4473,329,love,C09CLFU0NJC,251.0,13.595744680851064
+memes,523,167,memes,C09LKSALWNM,483.0,3.1317365269461077
+mental-health,9729,765,mental-health,C09CLFT4S1E,549.0,12.717647058823529
+mom-mentor-pms,11,3,mom-mentor-pms,C09STFF20UB,0.0,3.6666666666666665
+movie-night,3186,192,movie-night,C09BQV1028P,198.0,16.59375
+music,5743,111,music,C09BWA8Q0GL,127.0,51.73873873873874
+open-school-portal-mobile-devs,99,7,open-school-portal-mobile-devs,C0A0JBW0C3A,8.0,14.142857142857142
+open-school-portal-pms,2437,31,open-school-portal-pms,C09TP7ZK8N5,18.0,78.61290322580645
+ottoman-team-leads,539,18,ottoman-team-leads,C09UMCSJ2BZ,18.0,29.944444444444443
+petition,4,4,petition,C09CCPMRK6K,0.0,1.0
+playing-cupid,947,156,playing-cupid,C09NLBWJD9C,76.0,6.07051282051282
+premium-payment,4119,686,premium-payment,C09M01U7TK3,141.0,6.004373177842566
+projects,6,6,projects,C09RW4P907Q,0.0,1.0
+resources,148,88,resources,C09KZ04CPKM,474.0,1.6818181818181819
+robot-head,31,10,robot-head,C09MMFYN8RF,0.0,3.1
+rules,3,3,rules,C09LD4MM17U,507.0,1.0
+schoolbase-automation,26,4,schoolbase-automation,C0A0ABVKPNF,2.0,6.5
+sherlock-holmes,479,32,sherlock-holmes,C09UGHZ150B,72.0,14.96875
+shoot-your-shot,2087,207,shoot-your-shot,C0A2UP0L8AU,565.0,10.082125603864734
+smile-while-at-it,243,23,smile-while-at-it,C0A2SMJRD5E,38.0,10.565217391304348
+social,49,33,social,C09N5SVAL1E,31.0,1.4848484848484849
+sports,3044,367,sports,C09BME62SLT,456.0,8.294277929155314
+stage-zero,4456,1701,stage-zero,C09L5KUJ9J6,1.0,2.6196355085243974
+stage-zero-data-analyst,2381,751,stage-zero-data-analyst,C09LAFZR8LC,1.0,3.170439414114514
+test-private1-1761083435,1,1,test-private1-1761083435,C09MMB10S4T,0.0,1.0
+test-private2-deleteme,1,1,test-private2-deleteme,C09MC47MBB9,0.0,1.0
+test-public-channel-delete-me,1,1,test-public-channel-delete-me,C09MQ45QLA2,0.0,1.0
+testing,1,1,testing,C0A0Y7RP94H,0.0,1.0
+ticket-approval,728,48,ticket-approval,C09RG6TP610,0.0,15.166666666666666
+track-automations,990,166,track-automations,C09L3FQ0HU5,0.0,5.963855421686747
+track-backend,5205,737,track-backend,C09L3EU4HA9,0.0,7.062415196743555
+track-devops,2613,388,track-devops,C09L3FNNQ69,0.0,6.734536082474227
+track-frontend,3461,757,track-frontend,C09LKRNGX1P,0.0,4.571994715984148
+track-graphics,725,133,track-graphics,C09LKSN6YDP,0.0,5.451127819548872
+track-marketing,605,166,track-marketing,C09KRFVTSQP,0.0,3.644578313253012
+track-mobile,866,146,track-mobile,C09L3FL3MJR,0.0,5.931506849315069
+track-pm,1965,461,track-pm,C09L3FXBSGM,0.0,4.262472885032538
+track-qa,676,152,track-qa,C09L70DRE9Y,0.0,4.447368421052632
+track-ui-ux,3929,679,track-ui-ux,C09L0GL4AUB,0.0,5.786450662739322
+track-video,461,128,track-video,C09L4SZF31C,0.0,3.6015625
+track-virtual-assistant,1397,331,track-virtual-assistant,C09L4T30LPQ,0.0,4.220543806646526
+z-business-ideas-and-feedback,50,13,z-business-ideas-and-feedback,C09LDRV8A66,40.0,3.8461538461538463
+z-gamers-lounge,6,5,z-gamers-lounge,C09L7DLBHD1,16.0,1.2
+z-snaps-like-snapchat,12,7,z-snaps-like-snapchat,C09LAC0H9UM,16.0,1.7142857142857142
